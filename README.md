@@ -33,6 +33,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=white)
 
 ## 📊 Estadísticas:
 ![](https://github-readme-stats.vercel.app/api?username=stonefeld&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
