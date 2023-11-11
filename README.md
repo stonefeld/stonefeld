@@ -1,5 +1,7 @@
-<h1 align="center">Hola 👋 soy Theo Stanfield</h1>
-<h3 align="center">💫 Estudiante de Ingeniería Informática y Desarrollador</h3><br>
+![Light](https://raw.githubusercontent.com/stonefeld/stonefeld/master/assets/typing-dark.svg#gh-light-mode-only)
+![Dark](https://raw.githubusercontent.com/stonefeld/stonefeld/master/assets/typing-light.svg#gh-dark-mode-only)
+
+💫 Estudiante de Ingeniería Informática y Desarrollador
 
 🔭 Actualmente estoy trabajando en un proyecto para **Prana Sur**
 
@@ -7,11 +9,15 @@
 
 ![](https://visitcount.itsvg.in/api?id=stonefeld&label=Visitas%20al%20perfil&color=1&icon=0&pretty=true)
 
-## 🌐 Redes sociales:
+---
+
+### 🌐 Redes sociales:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theo-stanfield) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/pruepeura)
 
-## 💻 Tech-Stack:
+---
+
+### 💻 Tech-Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -36,8 +42,15 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=white)
 
-## 📊 Estadísticas:
+---
 
-![](https://github-readme-stats.vercel.app/api?username=stonefeld&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=stonefeld&theme=nord&hide_border=true)<br/>
+### 📊 Estadísticas:
+
+<br>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=stonefeld&theme=nord&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=stonefeld&theme=nord&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stonefeld&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
