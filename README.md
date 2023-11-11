@@ -5,10 +5,11 @@
 
 🌱 Estoy estudiando **Rust**, **OpenGL** y **NextJS**
 
-[![](https://visitcount.itsvg.in/api?id=stonefeld&label=Visitas%20al%20perfil&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=stonefeld&label=Visitas%20al%20perfil&color=1&icon=0&pretty=true)
 
 ## 🌐 Redes sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theo-stanfield) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/pruepeura) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theo-stanfield) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/pruepeura)
 
 ## 💻 Tech-Stack:
 
@@ -36,6 +37,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=white)
 
 ## 📊 Estadísticas:
+
 ![](https://github-readme-stats.vercel.app/api?username=stonefeld&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stonefeld&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stonefeld&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
