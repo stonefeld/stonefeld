@@ -1,7 +1,7 @@
 ![Light](https://raw.githubusercontent.com/stonefeld/stonefeld/master/assets/typing-dark.svg#gh-light-mode-only)
 ![Dark](https://raw.githubusercontent.com/stonefeld/stonefeld/master/assets/typing-light.svg#gh-dark-mode-only)
 
-💫 Estudiante de Ingeniería Informática y Desarrollador
+💫 Estudiante de **Ingeniería Informática** y **Desarrollador**
 
 🔭 Actualmente estoy trabajando en un proyecto para **Prana Sur**
 
