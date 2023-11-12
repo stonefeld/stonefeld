@@ -47,10 +47,6 @@
 ### 📊 Estadísticas:
 
 <br>
-<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=stonefeld&theme=nord&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=stonefeld&theme=nord&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stonefeld&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
+![Stonefeld's GitHub stats](https://github-readme-stats.vercel.app/api?username=stonefeld&theme=transparent&show_icons=true&hide_border=true&count_private=true)
+![Stonefeld's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stonefeld&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
