@@ -49,4 +49,4 @@
 <br>
 
 ![Stonefeld's GitHub stats](https://github-readme-stats.vercel.app/api?username=stonefeld&theme=transparent&show_icons=true&hide_border=true&count_private=true)
-![Stonefeld's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stonefeld&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Stonefeld's GitHub Streak](https://streak-stats.demolab.com?user=stonefeld&theme=transparent&hide_border=true)
