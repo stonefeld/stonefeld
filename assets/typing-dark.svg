@@ -1,18 +1,18 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 400 50'
+    viewBox='0 0 500 50'
     style='background-color: #00000000;'
-    width='400px' height='50px'>
+    width='500px' height='50px'>
 
     
                 <path id='path0'>
                             <!-- Single line -->
                                 <animate id='d0' attributeName='d' begin='0s;d3.end'
                     dur='5250ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.76190476190476;0.80952380952381;1' />
+                    values='m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0' keyTimes='0;0.76190476190476;0.80952380952381;1' />
                     </path>
-    <text font-family='"Cascadia Code", monospace' fill='#FFFFFF' font-size='20'
+    <text font-family='"Cascadia Code", monospace' fill='#FFFFFF' font-size='28'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path0'>
@@ -23,9 +23,9 @@
                             <!-- Single line -->
                                 <animate id='d1' attributeName='d' begin='d0.end'
                     dur='5250ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.76190476190476;0.80952380952381;1' />
+                    values='m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0' keyTimes='0;0.76190476190476;0.80952380952381;1' />
                     </path>
-    <text font-family='"Cascadia Code", monospace' fill='#FFFFFF' font-size='20'
+    <text font-family='"Cascadia Code", monospace' fill='#FFFFFF' font-size='28'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path1'>
@@ -36,9 +36,9 @@
                             <!-- Single line -->
                                 <animate id='d2' attributeName='d' begin='d1.end'
                     dur='5250ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.76190476190476;0.80952380952381;1' />
+                    values='m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0' keyTimes='0;0.76190476190476;0.80952380952381;1' />
                     </path>
-    <text font-family='"Cascadia Code", monospace' fill='#FFFFFF' font-size='20'
+    <text font-family='"Cascadia Code", monospace' fill='#FFFFFF' font-size='28'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path2'>
@@ -49,9 +49,9 @@
                             <!-- Single line -->
                                 <animate id='d3' attributeName='d' begin='d2.end'
                     dur='5250ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0' keyTimes='0;0.76190476190476;0.80952380952381;1' />
+                    values='m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0' keyTimes='0;0.76190476190476;0.80952380952381;1' />
                     </path>
-    <text font-family='"Cascadia Code", monospace' fill='#FFFFFF' font-size='20'
+    <text font-family='"Cascadia Code", monospace' fill='#FFFFFF' font-size='28'
         dominant-baseline='auto'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path3'>
