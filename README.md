@@ -7,7 +7,10 @@
 
 🌱 Estoy estudiando **Go**, **Angular** y **Spring**
 
-![](https://visitcount.itsvg.in/api?id=stonefeld&label=Visitas%20al%20perfil&color=1&icon=0&pretty=true)
+<br>
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=stonefeld&label=Visitas%20al%20perfil&color=1&icon=0&pretty=true"/>
+</div>
 
 ---
 
