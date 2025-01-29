@@ -5,7 +5,7 @@
 
 🔭 Actualmente estoy trabajando en un proyecto para **Prana Sur**
 
-🌱 Estoy estudiando **Go**, **Angular** y **Spring**
+🌱 Estoy aprendiendo **Go** y **Spring**
 
 <br>
 <div align="center">
