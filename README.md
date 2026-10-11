@@ -1,15 +1,15 @@
 ![Hello, I'm Theo.](assets/typing-light.svg#gh-light-mode-only)
 ![Hello, I'm Theo.](assets/typing-dark.svg#gh-dark-mode-only)
 
-I'm a software engineer interested in systems, software architecture, infrastructure, networking, and operating systems. I enjoy programming and understanding how things work end-to-end, from application design to the infrastructure and operating system underneath. Linux is a particular interest.
+I'm a software engineer who enjoys programming, Linux, and understanding systems end-to-end—from software architecture to networking, infrastructure, and operating systems.
 
-I have a background in electronics and currently work on modernizing a legacy operational platform, covering architecture, backend development, infrastructure, and integration with existing systems.
+With a background in electronics, I currently help modernize a legacy operational platform, working across architecture, backend development, infrastructure, and systems integration.
 
 ## Selected projects
 
-- **[Braid](https://github.com/stonefeld/braid)** — An open-source tool for coordinating parallel AI coding agents in isolated Git worktrees, managing execution dependencies, and integrating changes through verification gates.
-- **[Tango](https://github.com/mperezdegracia/ctrl-alt-ship)** — A collaborative hackathon project exploring AI-assisted freight coordination through real-time voice interactions, backend services, and operational workflows.
-- **[nvim](https://github.com/stonefeld/nvim)** — My evolving Neovim configuration in Lua, shaped by an interest in editor customization, developer tooling, and terminal-based workflows.
+- **[Braid (stonefeld/braid)](https://github.com/stonefeld/braid)** — An open-source tool for coordinating parallel AI coding agents in isolated Git worktrees, managing execution dependencies, and integrating changes through verification gates.
+- **[Tango (mperezdegracia/ctrl-alt-ship)](https://github.com/mperezdegracia/ctrl-alt-ship)** — A collaborative hackathon project exploring AI-assisted freight coordination through real-time voice interactions, backend services, and operational workflows.
+- **[Neovim (stonefeld/nvim)](https://github.com/stonefeld/nvim)** — My evolving Neovim configuration in Lua, shaped by an interest in editor customization, developer tooling, and terminal-based workflows.
 
 ## Technologies
 
