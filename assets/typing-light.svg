@@ -1,5 +1,5 @@
 <!-- Typing animation adapted from https://github.com/DenverCoder1/readme-typing-svg/ -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+<svg xmlns="http://www.w3.org/2000/svg"
      viewBox="0 0 500 50" width="500" height="50" role="img" aria-labelledby="title">
   <title id="title">Hello, I'm Theo. — HTML, C, Bash, Python, and Lua</title>
   <style>
@@ -9,18 +9,20 @@
       .static { display: inline; }
     }
   </style>
-  <g fill="#000000" font-family="'Cascadia Code', monospace" font-size="28">
+  <g fill="#000000" font-family="'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="28">
     <text class="static" x="0" y="30">Hello, I'm Theo.</text>
-    <!-- Text and cursor advance in matching 16px character steps. -->
+    <!-- Explicit character cells keep fallback fonts and cursor steps aligned. -->
     <!-- Each frame: type 4s, pause 1.6s, delete 1s, empty pause 0.6s. -->
     <g class="animated">
       <!-- HTML -->
-      <path id="path0" d="M0,30 h0">
-        <animate id="d0" attributeName="d" begin="0s;d4.end" dur="7200ms" fill="remove"
-                 values="M0,30 h0;M0,30 h16;M0,30 h32;M0,30 h48;M0,30 h64;M0,30 h80;M0,30 h96;M0,30 h112;M0,30 h128;M0,30 h144;M0,30 h160;M0,30 h176;M0,30 h192;M0,30 h208;M0,30 h224;M0,30 h240;M0,30 h256;M0,30 h272;M0,30 h288;M0,30 h304;M0,30 h320;M0,30 h336;M0,30 h352;M0,30 h368;M0,30 h384;M0,30 h400;M0,30 h384;M0,30 h368;M0,30 h352;M0,30 h336;M0,30 h320;M0,30 h304;M0,30 h288;M0,30 h272;M0,30 h256;M0,30 h240;M0,30 h224;M0,30 h208;M0,30 h192;M0,30 h176;M0,30 h160;M0,30 h144;M0,30 h128;M0,30 h112;M0,30 h96;M0,30 h80;M0,30 h64;M0,30 h48;M0,30 h32;M0,30 h16;M0,30 h0;M0,30 h0"
+      <clipPath id="clip0">
+        <rect x="0" y="0" width="0" height="50">
+          <animate id="d0" attributeName="width" begin="0s;d4.end" dur="7200ms" fill="remove"
+                 values="0;16;32;48;64;80;96;112;128;144;160;176;192;208;224;240;256;272;288;304;320;336;352;368;384;400;384;368;352;336;320;304;288;272;256;240;224;208;192;176;160;144;128;112;96;80;64;48;32;16;0;0"
                    calcMode="discrete" keyTimes="0;0.022222222222;0.044444444444;0.066666666667;0.088888888889;0.111111111111;0.133333333333;0.155555555556;0.177777777778;0.2;0.222222222222;0.244444444444;0.266666666667;0.288888888889;0.311111111111;0.333333333333;0.355555555556;0.377777777778;0.4;0.422222222222;0.444444444444;0.466666666667;0.488888888889;0.511111111111;0.533333333333;0.555555555556;0.783333333333;0.788888888889;0.794444444444;0.8;0.805555555556;0.811111111111;0.816666666667;0.822222222222;0.827777777778;0.833333333333;0.838888888889;0.844444444444;0.85;0.855555555556;0.861111111111;0.866666666667;0.872222222222;0.877777777778;0.883333333333;0.888888888889;0.894444444444;0.9;0.905555555556;0.911111111111;0.916666666667;1" />
-      </path>
-      <text textLength="400" lengthAdjust="spacingAndGlyphs"><textPath xlink:href="#path0">&lt;h1&gt;Hello, I'm Theo.&lt;/h1&gt;</textPath></text>
+        </rect>
+      </clipPath>
+      <text y="30" visibility="hidden" xml:space="preserve" clip-path="url(#clip0)"><set attributeName="visibility" to="visible" begin="0s;d4.end" dur="7200ms" /><tspan x="0">&lt;</tspan><tspan x="16">h</tspan><tspan x="32">1</tspan><tspan x="48">&gt;</tspan><tspan x="64">H</tspan><tspan x="80">e</tspan><tspan x="96">l</tspan><tspan x="112">l</tspan><tspan x="128">o</tspan><tspan x="144">,</tspan><tspan x="160"> </tspan><tspan x="176">I</tspan><tspan x="192">'</tspan><tspan x="208">m</tspan><tspan x="224"> </tspan><tspan x="240">T</tspan><tspan x="256">h</tspan><tspan x="272">e</tspan><tspan x="288">o</tspan><tspan x="304">.</tspan><tspan x="320">&lt;</tspan><tspan x="336">/</tspan><tspan x="352">h</tspan><tspan x="368">1</tspan><tspan x="384">&gt;</tspan></text>
       <g visibility="hidden">
         <set attributeName="visibility" to="visible" begin="0s;d4.end" dur="7200ms" />
         <rect x="2" y="7" width="14" height="28">
@@ -33,12 +35,14 @@
         </rect>
       </g>
       <!-- C -->
-      <path id="path1" d="M0,30 h0">
-        <animate id="d1" attributeName="d" begin="d0.end" dur="7200ms" fill="remove"
-                 values="M0,30 h0;M0,30 h16;M0,30 h32;M0,30 h48;M0,30 h64;M0,30 h80;M0,30 h96;M0,30 h112;M0,30 h128;M0,30 h144;M0,30 h160;M0,30 h176;M0,30 h192;M0,30 h208;M0,30 h224;M0,30 h240;M0,30 h256;M0,30 h272;M0,30 h288;M0,30 h304;M0,30 h320;M0,30 h336;M0,30 h352;M0,30 h368;M0,30 h384;M0,30 h400;M0,30 h416;M0,30 h432;M0,30 h448;M0,30 h464;M0,30 h448;M0,30 h432;M0,30 h416;M0,30 h400;M0,30 h384;M0,30 h368;M0,30 h352;M0,30 h336;M0,30 h320;M0,30 h304;M0,30 h288;M0,30 h272;M0,30 h256;M0,30 h240;M0,30 h224;M0,30 h208;M0,30 h192;M0,30 h176;M0,30 h160;M0,30 h144;M0,30 h128;M0,30 h112;M0,30 h96;M0,30 h80;M0,30 h64;M0,30 h48;M0,30 h32;M0,30 h16;M0,30 h0;M0,30 h0"
+      <clipPath id="clip1">
+        <rect x="0" y="0" width="0" height="50">
+          <animate id="d1" attributeName="width" begin="d0.end" dur="7200ms" fill="remove"
+                 values="0;16;32;48;64;80;96;112;128;144;160;176;192;208;224;240;256;272;288;304;320;336;352;368;384;400;416;432;448;464;448;432;416;400;384;368;352;336;320;304;288;272;256;240;224;208;192;176;160;144;128;112;96;80;64;48;32;16;0;0"
                    calcMode="discrete" keyTimes="0;0.019157088123;0.038314176245;0.057471264368;0.07662835249;0.095785440613;0.114942528736;0.134099616858;0.153256704981;0.172413793103;0.191570881226;0.210727969349;0.229885057471;0.249042145594;0.268199233716;0.287356321839;0.306513409962;0.325670498084;0.344827586207;0.36398467433;0.383141762452;0.402298850575;0.421455938697;0.44061302682;0.459770114943;0.478927203065;0.498084291188;0.51724137931;0.536398467433;0.555555555556;0.782567049808;0.787356321839;0.79214559387;0.7969348659;0.801724137931;0.806513409962;0.811302681992;0.816091954023;0.820881226054;0.825670498084;0.830459770115;0.835249042146;0.840038314176;0.844827586207;0.849616858238;0.854406130268;0.859195402299;0.86398467433;0.86877394636;0.873563218391;0.878352490421;0.883141762452;0.887931034483;0.892720306513;0.897509578544;0.902298850575;0.907088122605;0.911877394636;0.916666666667;1" />
-      </path>
-      <text textLength="464" lengthAdjust="spacingAndGlyphs"><textPath xlink:href="#path1">printf("Hello, I'm Theo.\n");</textPath></text>
+        </rect>
+      </clipPath>
+      <text y="30" visibility="hidden" xml:space="preserve" clip-path="url(#clip1)"><set attributeName="visibility" to="visible" begin="d0.end" dur="7200ms" /><tspan x="0">p</tspan><tspan x="16">r</tspan><tspan x="32">i</tspan><tspan x="48">n</tspan><tspan x="64">t</tspan><tspan x="80">f</tspan><tspan x="96">(</tspan><tspan x="112">"</tspan><tspan x="128">H</tspan><tspan x="144">e</tspan><tspan x="160">l</tspan><tspan x="176">l</tspan><tspan x="192">o</tspan><tspan x="208">,</tspan><tspan x="224"> </tspan><tspan x="240">I</tspan><tspan x="256">'</tspan><tspan x="272">m</tspan><tspan x="288"> </tspan><tspan x="304">T</tspan><tspan x="320">h</tspan><tspan x="336">e</tspan><tspan x="352">o</tspan><tspan x="368">.</tspan><tspan x="384">\</tspan><tspan x="400">n</tspan><tspan x="416">"</tspan><tspan x="432">)</tspan><tspan x="448">;</tspan></text>
       <g visibility="hidden">
         <set attributeName="visibility" to="visible" begin="d0.end" dur="7200ms" />
         <rect x="2" y="7" width="14" height="28">
@@ -51,12 +55,14 @@
         </rect>
       </g>
       <!-- Bash -->
-      <path id="path2" d="M0,30 h0">
-        <animate id="d2" attributeName="d" begin="d1.end" dur="7200ms" fill="remove"
-                 values="M0,30 h0;M0,30 h16;M0,30 h32;M0,30 h48;M0,30 h64;M0,30 h80;M0,30 h96;M0,30 h112;M0,30 h128;M0,30 h144;M0,30 h160;M0,30 h176;M0,30 h192;M0,30 h208;M0,30 h224;M0,30 h240;M0,30 h256;M0,30 h272;M0,30 h288;M0,30 h304;M0,30 h320;M0,30 h336;M0,30 h352;M0,30 h368;M0,30 h352;M0,30 h336;M0,30 h320;M0,30 h304;M0,30 h288;M0,30 h272;M0,30 h256;M0,30 h240;M0,30 h224;M0,30 h208;M0,30 h192;M0,30 h176;M0,30 h160;M0,30 h144;M0,30 h128;M0,30 h112;M0,30 h96;M0,30 h80;M0,30 h64;M0,30 h48;M0,30 h32;M0,30 h16;M0,30 h0;M0,30 h0"
+      <clipPath id="clip2">
+        <rect x="0" y="0" width="0" height="50">
+          <animate id="d2" attributeName="width" begin="d1.end" dur="7200ms" fill="remove"
+                 values="0;16;32;48;64;80;96;112;128;144;160;176;192;208;224;240;256;272;288;304;320;336;352;368;352;336;320;304;288;272;256;240;224;208;192;176;160;144;128;112;96;80;64;48;32;16;0;0"
                    calcMode="discrete" keyTimes="0;0.024154589372;0.048309178744;0.072463768116;0.096618357488;0.12077294686;0.144927536232;0.169082125604;0.193236714976;0.217391304348;0.24154589372;0.265700483092;0.289855072464;0.314009661836;0.338164251208;0.36231884058;0.386473429952;0.410628019324;0.434782608696;0.458937198068;0.48309178744;0.507246376812;0.531400966184;0.555555555556;0.783816425121;0.789855072464;0.795893719807;0.80193236715;0.807971014493;0.814009661836;0.820048309179;0.826086956522;0.832125603865;0.838164251208;0.844202898551;0.850241545894;0.856280193237;0.86231884058;0.868357487923;0.874396135266;0.880434782609;0.886473429952;0.892512077295;0.898550724638;0.904589371981;0.910628019324;0.916666666667;1" />
-      </path>
-      <text textLength="368" lengthAdjust="spacingAndGlyphs"><textPath xlink:href="#path2">echo "Hello, I'm Theo."</textPath></text>
+        </rect>
+      </clipPath>
+      <text y="30" visibility="hidden" xml:space="preserve" clip-path="url(#clip2)"><set attributeName="visibility" to="visible" begin="d1.end" dur="7200ms" /><tspan x="0">e</tspan><tspan x="16">c</tspan><tspan x="32">h</tspan><tspan x="48">o</tspan><tspan x="64"> </tspan><tspan x="80">"</tspan><tspan x="96">H</tspan><tspan x="112">e</tspan><tspan x="128">l</tspan><tspan x="144">l</tspan><tspan x="160">o</tspan><tspan x="176">,</tspan><tspan x="192"> </tspan><tspan x="208">I</tspan><tspan x="224">'</tspan><tspan x="240">m</tspan><tspan x="256"> </tspan><tspan x="272">T</tspan><tspan x="288">h</tspan><tspan x="304">e</tspan><tspan x="320">o</tspan><tspan x="336">.</tspan><tspan x="352">"</tspan></text>
       <g visibility="hidden">
         <set attributeName="visibility" to="visible" begin="d1.end" dur="7200ms" />
         <rect x="2" y="7" width="14" height="28">
@@ -69,12 +75,14 @@
         </rect>
       </g>
       <!-- Python -->
-      <path id="path3" d="M0,30 h0">
-        <animate id="d3" attributeName="d" begin="d2.end" dur="7200ms" fill="remove"
-                 values="M0,30 h0;M0,30 h16;M0,30 h32;M0,30 h48;M0,30 h64;M0,30 h80;M0,30 h96;M0,30 h112;M0,30 h128;M0,30 h144;M0,30 h160;M0,30 h176;M0,30 h192;M0,30 h208;M0,30 h224;M0,30 h240;M0,30 h256;M0,30 h272;M0,30 h288;M0,30 h304;M0,30 h320;M0,30 h336;M0,30 h352;M0,30 h368;M0,30 h384;M0,30 h400;M0,30 h384;M0,30 h368;M0,30 h352;M0,30 h336;M0,30 h320;M0,30 h304;M0,30 h288;M0,30 h272;M0,30 h256;M0,30 h240;M0,30 h224;M0,30 h208;M0,30 h192;M0,30 h176;M0,30 h160;M0,30 h144;M0,30 h128;M0,30 h112;M0,30 h96;M0,30 h80;M0,30 h64;M0,30 h48;M0,30 h32;M0,30 h16;M0,30 h0;M0,30 h0"
+      <clipPath id="clip3">
+        <rect x="0" y="0" width="0" height="50">
+          <animate id="d3" attributeName="width" begin="d2.end" dur="7200ms" fill="remove"
+                 values="0;16;32;48;64;80;96;112;128;144;160;176;192;208;224;240;256;272;288;304;320;336;352;368;384;400;384;368;352;336;320;304;288;272;256;240;224;208;192;176;160;144;128;112;96;80;64;48;32;16;0;0"
                    calcMode="discrete" keyTimes="0;0.022222222222;0.044444444444;0.066666666667;0.088888888889;0.111111111111;0.133333333333;0.155555555556;0.177777777778;0.2;0.222222222222;0.244444444444;0.266666666667;0.288888888889;0.311111111111;0.333333333333;0.355555555556;0.377777777778;0.4;0.422222222222;0.444444444444;0.466666666667;0.488888888889;0.511111111111;0.533333333333;0.555555555556;0.783333333333;0.788888888889;0.794444444444;0.8;0.805555555556;0.811111111111;0.816666666667;0.822222222222;0.827777777778;0.833333333333;0.838888888889;0.844444444444;0.85;0.855555555556;0.861111111111;0.866666666667;0.872222222222;0.877777777778;0.883333333333;0.888888888889;0.894444444444;0.9;0.905555555556;0.911111111111;0.916666666667;1" />
-      </path>
-      <text textLength="400" lengthAdjust="spacingAndGlyphs"><textPath xlink:href="#path3">print("Hello, I'm Theo.")</textPath></text>
+        </rect>
+      </clipPath>
+      <text y="30" visibility="hidden" xml:space="preserve" clip-path="url(#clip3)"><set attributeName="visibility" to="visible" begin="d2.end" dur="7200ms" /><tspan x="0">p</tspan><tspan x="16">r</tspan><tspan x="32">i</tspan><tspan x="48">n</tspan><tspan x="64">t</tspan><tspan x="80">(</tspan><tspan x="96">"</tspan><tspan x="112">H</tspan><tspan x="128">e</tspan><tspan x="144">l</tspan><tspan x="160">l</tspan><tspan x="176">o</tspan><tspan x="192">,</tspan><tspan x="208"> </tspan><tspan x="224">I</tspan><tspan x="240">'</tspan><tspan x="256">m</tspan><tspan x="272"> </tspan><tspan x="288">T</tspan><tspan x="304">h</tspan><tspan x="320">e</tspan><tspan x="336">o</tspan><tspan x="352">.</tspan><tspan x="368">"</tspan><tspan x="384">)</tspan></text>
       <g visibility="hidden">
         <set attributeName="visibility" to="visible" begin="d2.end" dur="7200ms" />
         <rect x="2" y="7" width="14" height="28">
@@ -87,12 +95,14 @@
         </rect>
       </g>
       <!-- Lua -->
-      <path id="path4" d="M0,30 h0">
-        <animate id="d4" attributeName="d" begin="d3.end" dur="7200ms" fill="remove"
-                 values="M0,30 h0;M0,30 h16;M0,30 h32;M0,30 h48;M0,30 h64;M0,30 h80;M0,30 h96;M0,30 h112;M0,30 h128;M0,30 h144;M0,30 h160;M0,30 h176;M0,30 h192;M0,30 h208;M0,30 h224;M0,30 h240;M0,30 h256;M0,30 h272;M0,30 h288;M0,30 h304;M0,30 h320;M0,30 h336;M0,30 h352;M0,30 h368;M0,30 h384;M0,30 h400;M0,30 h416;M0,30 h432;M0,30 h448;M0,30 h464;M0,30 h480;M0,30 h464;M0,30 h448;M0,30 h432;M0,30 h416;M0,30 h400;M0,30 h384;M0,30 h368;M0,30 h352;M0,30 h336;M0,30 h320;M0,30 h304;M0,30 h288;M0,30 h272;M0,30 h256;M0,30 h240;M0,30 h224;M0,30 h208;M0,30 h192;M0,30 h176;M0,30 h160;M0,30 h144;M0,30 h128;M0,30 h112;M0,30 h96;M0,30 h80;M0,30 h64;M0,30 h48;M0,30 h32;M0,30 h16;M0,30 h0;M0,30 h0"
+      <clipPath id="clip4">
+        <rect x="0" y="0" width="0" height="50">
+          <animate id="d4" attributeName="width" begin="d3.end" dur="7200ms" fill="remove"
+                 values="0;16;32;48;64;80;96;112;128;144;160;176;192;208;224;240;256;272;288;304;320;336;352;368;384;400;416;432;448;464;480;464;448;432;416;400;384;368;352;336;320;304;288;272;256;240;224;208;192;176;160;144;128;112;96;80;64;48;32;16;0;0"
                    calcMode="discrete" keyTimes="0;0.018518518519;0.037037037037;0.055555555556;0.074074074074;0.092592592593;0.111111111111;0.12962962963;0.148148148148;0.166666666667;0.185185185185;0.203703703704;0.222222222222;0.240740740741;0.259259259259;0.277777777778;0.296296296296;0.314814814815;0.333333333333;0.351851851852;0.37037037037;0.388888888889;0.407407407407;0.425925925926;0.444444444444;0.462962962963;0.481481481481;0.5;0.518518518519;0.537037037037;0.555555555556;0.782407407407;0.787037037037;0.791666666667;0.796296296296;0.800925925926;0.805555555556;0.810185185185;0.814814814815;0.819444444444;0.824074074074;0.828703703704;0.833333333333;0.837962962963;0.842592592593;0.847222222222;0.851851851852;0.856481481481;0.861111111111;0.865740740741;0.87037037037;0.875;0.87962962963;0.884259259259;0.888888888889;0.893518518519;0.898148148148;0.902777777778;0.907407407407;0.912037037037;0.916666666667;1" />
-      </path>
-      <text textLength="480" lengthAdjust="spacingAndGlyphs"><textPath xlink:href="#path4">:lua print("Hello, I'm Theo.")</textPath></text>
+        </rect>
+      </clipPath>
+      <text y="30" visibility="hidden" xml:space="preserve" clip-path="url(#clip4)"><set attributeName="visibility" to="visible" begin="d3.end" dur="7200ms" /><tspan x="0">:</tspan><tspan x="16">l</tspan><tspan x="32">u</tspan><tspan x="48">a</tspan><tspan x="64"> </tspan><tspan x="80">p</tspan><tspan x="96">r</tspan><tspan x="112">i</tspan><tspan x="128">n</tspan><tspan x="144">t</tspan><tspan x="160">(</tspan><tspan x="176">"</tspan><tspan x="192">H</tspan><tspan x="208">e</tspan><tspan x="224">l</tspan><tspan x="240">l</tspan><tspan x="256">o</tspan><tspan x="272">,</tspan><tspan x="288"> </tspan><tspan x="304">I</tspan><tspan x="320">'</tspan><tspan x="336">m</tspan><tspan x="352"> </tspan><tspan x="368">T</tspan><tspan x="384">h</tspan><tspan x="400">e</tspan><tspan x="416">o</tspan><tspan x="432">.</tspan><tspan x="448">"</tspan><tspan x="464">)</tspan></text>
       <g visibility="hidden">
         <set attributeName="visibility" to="visible" begin="d3.end" dur="7200ms" />
         <rect x="2" y="7" width="14" height="28">
