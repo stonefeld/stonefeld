@@ -15,38 +15,88 @@
       <!-- HTML -->
       <path id="path0" d="M0,30 h0">
         <animate id="d0" attributeName="d" begin="0s;d4.end" dur="5250ms" fill="remove"
-                 values="M0,30 h0;M0,30 h500;M0,30 h500;M0,30 h0"
+                 values="M0,30 h0;M0,30 h400.0;M0,30 h400.0;M0,30 h0"
                  keyTimes="0;0.76190476190476;0.80952380952381;1" />
       </path>
-      <text><textPath xlink:href="#path0">&lt;h1&gt;Hello, I'm Theo.&lt;/h1&gt;</textPath></text>
+      <text textLength="400.0" lengthAdjust="spacingAndGlyphs"><textPath xlink:href="#path0">&lt;h1&gt;Hello, I'm Theo.&lt;/h1&gt;</textPath></text>
+      <g visibility="hidden">
+        <set attributeName="visibility" to="visible" begin="0s;d4.end" dur="5250ms" />
+        <rect x="0" y="7" width="14" height="28">
+          <animate attributeName="x" begin="0s;d4.end" dur="5250ms" fill="remove"
+                   values="0;400.0;400.0;0"
+                   keyTimes="0;0.76190476190476;0.80952380952381;1" />
+          <animate attributeName="opacity" values="1;0" calcMode="discrete"
+                   dur="800ms" repeatCount="indefinite" />
+        </rect>
+      </g>
       <!-- C -->
       <path id="path1" d="M0,30 h0">
         <animate id="d1" attributeName="d" begin="d0.end" dur="5250ms" fill="remove"
-                 values="M0,30 h0;M0,30 h500;M0,30 h500;M0,30 h0"
+                 values="M0,30 h0;M0,30 h464.0;M0,30 h464.0;M0,30 h0"
                  keyTimes="0;0.76190476190476;0.80952380952381;1" />
       </path>
-      <text><textPath xlink:href="#path1">printf("Hello, I'm Theo.\n");</textPath></text>
+      <text textLength="464.0" lengthAdjust="spacingAndGlyphs"><textPath xlink:href="#path1">printf("Hello, I'm Theo.\n");</textPath></text>
+      <g visibility="hidden">
+        <set attributeName="visibility" to="visible" begin="d0.end" dur="5250ms" />
+        <rect x="0" y="7" width="14" height="28">
+          <animate attributeName="x" begin="d0.end" dur="5250ms" fill="remove"
+                   values="0;464.0;464.0;0"
+                   keyTimes="0;0.76190476190476;0.80952380952381;1" />
+          <animate attributeName="opacity" values="1;0" calcMode="discrete"
+                   dur="800ms" repeatCount="indefinite" />
+        </rect>
+      </g>
       <!-- Bash -->
       <path id="path2" d="M0,30 h0">
         <animate id="d2" attributeName="d" begin="d1.end" dur="5250ms" fill="remove"
-                 values="M0,30 h0;M0,30 h500;M0,30 h500;M0,30 h0"
+                 values="M0,30 h0;M0,30 h386.4;M0,30 h386.4;M0,30 h0"
                  keyTimes="0;0.76190476190476;0.80952380952381;1" />
       </path>
-      <text><textPath xlink:href="#path2">echo "Hello, I'm Theo."</textPath></text>
+      <text textLength="386.4" lengthAdjust="spacingAndGlyphs"><textPath xlink:href="#path2">echo "Hello, I'm Theo."</textPath></text>
+      <g visibility="hidden">
+        <set attributeName="visibility" to="visible" begin="d1.end" dur="5250ms" />
+        <rect x="0" y="7" width="14" height="28">
+          <animate attributeName="x" begin="d1.end" dur="5250ms" fill="remove"
+                   values="0;386.4;386.4;0"
+                   keyTimes="0;0.76190476190476;0.80952380952381;1" />
+          <animate attributeName="opacity" values="1;0" calcMode="discrete"
+                   dur="800ms" repeatCount="indefinite" />
+        </rect>
+      </g>
       <!-- Python -->
       <path id="path3" d="M0,30 h0">
         <animate id="d3" attributeName="d" begin="d2.end" dur="5250ms" fill="remove"
-                 values="M0,30 h0;M0,30 h500;M0,30 h500;M0,30 h0"
+                 values="M0,30 h0;M0,30 h400.0;M0,30 h400.0;M0,30 h0"
                  keyTimes="0;0.76190476190476;0.80952380952381;1" />
       </path>
-      <text><textPath xlink:href="#path3">print("Hello, I'm Theo.")</textPath></text>
+      <text textLength="400.0" lengthAdjust="spacingAndGlyphs"><textPath xlink:href="#path3">print("Hello, I'm Theo.")</textPath></text>
+      <g visibility="hidden">
+        <set attributeName="visibility" to="visible" begin="d2.end" dur="5250ms" />
+        <rect x="0" y="7" width="14" height="28">
+          <animate attributeName="x" begin="d2.end" dur="5250ms" fill="remove"
+                   values="0;400.0;400.0;0"
+                   keyTimes="0;0.76190476190476;0.80952380952381;1" />
+          <animate attributeName="opacity" values="1;0" calcMode="discrete"
+                   dur="800ms" repeatCount="indefinite" />
+        </rect>
+      </g>
       <!-- Lua -->
       <path id="path4" d="M0,30 h0">
         <animate id="d4" attributeName="d" begin="d3.end" dur="5250ms" fill="remove"
-                 values="M0,30 h0;M0,30 h500;M0,30 h500;M0,30 h0"
+                 values="M0,30 h0;M0,30 h480.0;M0,30 h480.0;M0,30 h0"
                  keyTimes="0;0.76190476190476;0.80952380952381;1" />
       </path>
-      <text><textPath xlink:href="#path4">:lua print("Hello, I'm Theo.")</textPath></text>
+      <text textLength="480.0" lengthAdjust="spacingAndGlyphs"><textPath xlink:href="#path4">:lua print("Hello, I'm Theo.")</textPath></text>
+      <g visibility="hidden">
+        <set attributeName="visibility" to="visible" begin="d3.end" dur="5250ms" />
+        <rect x="0" y="7" width="14" height="28">
+          <animate attributeName="x" begin="d3.end" dur="5250ms" fill="remove"
+                   values="0;480.0;480.0;0"
+                   keyTimes="0;0.76190476190476;0.80952380952381;1" />
+          <animate attributeName="opacity" values="1;0" calcMode="discrete"
+                   dur="800ms" repeatCount="indefinite" />
+        </rect>
+      </g>
     </g>
   </g>
 </svg>
